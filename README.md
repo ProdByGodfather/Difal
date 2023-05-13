@@ -11,5 +11,6 @@ Difal has two tables, `user` and `prod`, which store advertisements along with t
 - CSS
 - Java Script
 <br>
+
 ## Attention:
 In this project, it has been tried to use all programming materials in a completely simple way so that it can be considered as an introductory project.
