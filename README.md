@@ -7,14 +7,18 @@ Difal is a simple and easy project with limited capabilities similar to the Diva
 
 <img src="https://imgurl.ir/uploads/a184917_Difal.png" border="0" width='50%' alt="o96620_Difal.png" />
 <br>
+
 To run the file on the local host or server, put a file called `backup_difal.sql` in the `mysqli database`.
 This file is placed for you.
 Difal has two tables, `user` and `prod`, which store advertisements along with the user's name in the prod table.
+
 ## Programming languages used:
 - PhP
 - HTML
 - CSS
 - Java Script
+
+  
 <br>
 
 ## Attention:
