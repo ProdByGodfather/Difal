@@ -12,7 +12,15 @@ To run the file on the local host or server, put a file called `backup_difal.sql
 This file is placed for you.
 Difal has two tables, `user` and `prod`, which store advertisements along with the user's name in the prod table.
 
-## Programming languages used:
+## Database Connection
+The database used in the project is mysql database.
+The project system itself is set on the local mysql database settings and for connect, you need make a collection on db with name `difal` .
+
+```php
+$link = mysqli_connect("localhost","root","","difal");
+```
+
+## Programming languages used
 - PhP
 - HTML
 - CSS
