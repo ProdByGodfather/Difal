@@ -3,7 +3,10 @@ Difal is a simple and easy project with limited capabilities similar to the Diva
 
 [![PhP](https://img.shields.io/badge/php-%2320232a.svg?style=for-the-badge&logo=php)](https://github.com//prodbygodfather)
 [![Js](https://img.shields.io/badge/java%20script-%2320232a.svg?style=for-the-badge&logo=javascript)](https://github.com//prodbygodfather)
-[![Js](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql)](https://github.com//prodbygodfather)
+[![mysql](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql)](https://github.com//prodbygodfather)
+[![html](https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html5)](https://github.com//prodbygodfather)
+[![css](https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css3)](https://github.com//prodbygodfather)
+
 
 <img src="https://imgurl.ir/uploads/a184917_Difal.png" border="0" width='50%' alt="o96620_Difal.png" />
 <br>
