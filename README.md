@@ -32,5 +32,5 @@ $link = mysqli_connect("localhost","root","","difal");
   
 <br>
 
-## Attention:
+## Attention
 In this project, it has been tried to use all programming materials in a completely simple way so that it can be considered as an introductory project.
